@@ -1,4 +1,4 @@
 # Pokédex
 
-<img scr="assets/pokedex_thumb.png">
+![alt_text](assets/pokedex_thumb.png)
  
