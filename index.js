@@ -7,7 +7,7 @@
 const page = document.querySelector('#pokedex-page')
 // page.appendChild(div)
 
-fetch('https://pokeapi.co/api/v2/pokemon?limit=150') //acessar a api
+fetch('https://pokeapi.co/api/v2/pokemon?limit=151') //acessar a api
     .then(response => {
        return response.json() // convertendo resposta para json
     })
